@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <link rel="stylesheet" href="./box.css" type="text/css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+</style>
+</head>
+<body>
+    <h2>RCB</h2>
+    <div class="RCB">
+      <i class="material-icons">favorite</i>
+      <div class="container">
+        <h1>VIRAT</h1>
+      <p>RCB hold the record for playing the most number of IPL finals - three - without winning the trophy. Along with Punjab Kings and Delhi Capitals, Royal Challengers Bengaluru are the only teams to have not won the trophy despite featuring in the IPL since the inaugural</p>
+      </div>
+    </div>
+    <div class="RCB">
+      <i class="material-icons">cloud</i>
+        <div class="container">
+          <h1>ABD</h1>
+        <p>RCB hold the record for playing the most number of IPL finals - three - without winning the trophy. Along with Punjab Kings and Delhi Capitals, Royal Challengers Bengaluru are the only teams to have not won the trophy despite featuring in the IPL since the inaugural</p>
+        </div>
+      </div>
+      <div class="RCB">
+        <i class="material-icons">attachment</i>
+        <div class="container">
+          <h1>MAX</h1>
+        <p>RCB hold the record for playing the most number of IPL finals - three - without winning the trophy. Along with Punjab Kings and Delhi Capitals, Royal Challengers Bengaluru are the only teams to have not won the trophy despite featuring in the IPL since the inaugural</p>
+        </div>
+      </div>
+      <div class="RCB">
+        <i class="material-icons">computer</i>
+        <div class="container">
+          <h1>DK</h1>
+        <p>RCB hold the record for playing the most number of IPL finals - three - without winning the trophy. Along with Punjab Kings and Delhi Capitals, Royal Challengers Bengaluru are the only teams to have not won the trophy despite featuring in the IPL since the inaugural</p>
+        </div>
+      </div>
+      <div class="RCB">
+        <i class="material-icons">traffic</i>
+        <div class="container">
+          <h1>DUP</h1>
+        <p>RCB hold the record for playing the most number of IPL finals - three - without winning the trophy. Along with Punjab Kings and Delhi Capitals, Royal Challengers Bengaluru are the only teams to have not won the trophy despite featuring in the IPL since the inaugural</p>
+        </div>
+      </div>
+</body>
+</html>
